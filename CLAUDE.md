@@ -44,6 +44,11 @@ realestate-app/
 - 環境変数は `.env` で管理し、`.env.example` をリポジトリに含める
 - シークレット情報（`.env`）は `.gitignore` で除外する
 
+## デプロイ情報
+
+- 本番URL：https://claude-code-realestate-app.vercel.app/login
+- Supabaseプロジェクト名：realestate-app
+
 ## セットアップ（後日記載）
 
 実装開始後に更新する。
